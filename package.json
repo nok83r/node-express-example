@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "mongodb": "^2.2.28",
     "morgan": "^1.8.2"
   }
 }
